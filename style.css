@@ -1,0 +1,87 @@
+body {
+    background-image: url(https://w0.peakpx.com/wallpaper/149/350/HD-wallpaper-ben-10-amazer-aliens-and-ben-10-of-forces.jpg);
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+.benten {
+    display: flex;
+    flex-direction: row;
+}
+.names{
+    padding-left: 300px;
+    padding-top: 100px;
+}
+.name1 {
+    margin: 50px;
+    background-color: pink;
+    padding-left: 300px;
+    padding-right: 300px;
+    
+}
+.name2 {
+    text-align: center;
+}
+
+.imgs {
+    display: flex;
+    flex-direction: row;
+}
+.ben1 {
+    height: 120px;
+
+    padding-left: 120px;
+    padding-top: 100x;
+}
+.ben2 {
+    height: 120px;
+    padding-left: 10px;  
+}
+.ben3 {
+    height: 120px;
+    padding-left: 10px;
+}
+.ben4 {
+    height: 120px;
+    padding-left: 10px;
+}
+.ben5 {
+    height: 120px;
+    padding-left: 10px;
+}
+.name3 {
+    padding-top: 10px;
+    padding-left: 590px;  
+}
+.img {
+    display: flex;
+    flex-direction: row;
+}
+.gwen1 {
+  height: 120px;
+  padding-left: 120px;
+  
+}
+.gwen2 {
+    height: 120px;
+    padding-left: 10px;
+}
+.gwen3 {
+    height: 120px;
+    padding-left: 10px;
+}
+.gwen4 {
+    height: 120px;
+    padding-left: 10px;
+}
+.gwen5 {
+    height: 120px;
+    padding-left: 10px;
+}
+.gwen6 {
+    height: 120px;
+    padding-left: 10px;
+}
+.gwen7 {
+    height: 120px;
+    padding-left: 10px;
+}
